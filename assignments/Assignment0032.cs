@@ -10,7 +10,7 @@ namespace leetcode
             sw.Start();
             var res = new Assignment0032().LongestValidParentheses("()(()"); // 2
             sw.Stop();
-            System.Console.WriteLine($"Answer: {res} in {sw.ElapsedMilliseconds}ms");
+            System.Console.WriteLine($"Answer: {res} ");
         }
 
         public int LongestValidParentheses(string s)
