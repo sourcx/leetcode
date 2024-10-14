@@ -7,7 +7,7 @@ namespace leetcode
     {
         public static void Run()
         {
-            System.Console.WriteLine(new Assignment0014().LongestCommonPrefix(new string[] { "flower","f" }));
+            System.Console.WriteLine(new Assignment0014().LongestCommonPrefix(new string[] { "flower", "f" }));
         }
 
         public string LongestCommonPrefix(string[] strs)

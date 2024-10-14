@@ -4,9 +4,9 @@ namespace leetcode
 {
     class Assignment0015
     {
-        static int[] _input = new int[] { 12,5,-12,4,-11,11,2,7 };
+        static int[] _input = new int[] { 12, 5, -12, 4, -11, 11, 2, 7 };
 
-         public static void Run()
+        public static void Run()
         {
             var sw = new Stopwatch();
             sw.Start();

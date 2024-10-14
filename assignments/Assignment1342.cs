@@ -56,7 +56,7 @@ namespace leetcode
                 }
             }
 
-           return steps - 1;
+            return steps - 1;
         }
     }
 }

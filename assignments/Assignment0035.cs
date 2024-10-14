@@ -4,7 +4,7 @@ namespace leetcode
     {
         public static void Run()
         {
-            var nums = new[] { 1,3,5,6 };
+            var nums = new[] { 1, 3, 5, 6 };
             var target = 10;
             var res = new Assignment0035().SearchInsert(nums, target);
             System.Console.WriteLine($"Answer: {res}.");
